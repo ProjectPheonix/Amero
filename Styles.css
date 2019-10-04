@@ -1,0 +1,33 @@
+
+body{
+	text-align: center;
+	font-family: 'Acme',Arial;
+//	background-color: #fbf5ff;
+	
+
+}
+
+img{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+	
+.quotes{
+	color: black;
+}
+
+.logo{
+	width: 250px;
+}
+input[type=text], input[type=password]{
+	padding: 10px;
+	margin: 15px
+}
+
+a{
+	color:black;
+}
+.nav-item active{
+	background-color: #b175ff !important;
+}
